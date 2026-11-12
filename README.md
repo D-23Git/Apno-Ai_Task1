@@ -12,7 +12,7 @@
 
 **A modern, responsive, 4-section portfolio website built with clean semantic HTML5, CSS Flexbox layouts, interactive widgets, and an instant Dark/Light mode switcher.**
 
-[🌐 Live Website](https://apno-ai-task1.vercel.app) • [📂 GitHub Repository](https://github.com/D-23Git/Apno-Ai_Task1) • [📝 Submission Guide](#-task-submission-details)
+[🌐 Live Website](https://apno-aitask1.vercel.app/) • [📂 GitHub Repository](https://github.com/D-23Git/Apno-Ai_Task1) • [📝 Submission Guide](#-task-submission-details)
 
 </div>
 
